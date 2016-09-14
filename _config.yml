@@ -1,10 +1,8 @@
-title: Immaculate
+title: Geeks for Social Change
 description: >
-  A beautiful, fast, AMP-compliant Jekyll theme based on Tufte CSS.
-baseurl: "/immaculate"
-url: "https://github.com/siawyoung/immaculate"
+  Working with community organisations and activist groups towards a fairer society using technology, communication, and education.
 paginate:	2 # The number of posts to show per page on your homepage
-name: "Lau Siaw Young"
+name: "Dr Kim Foale"
 markdown: kramdown
 permalink: none
 kramdown:

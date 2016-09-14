@@ -12,7 +12,6 @@ We have a solution-focussed culture of invention and entrepreneurship, where sol
 
 In reality, real social change is hard. Taking an asset-based approach{% sidenote assets Read more about [ABCD on Wikipedia](https://en.wikipedia.org/wiki/Asset-based_community_development) %}, any given problem generally already has multiple groups engaged in solving it. Lean approaches{% sidenote mayura See [Mauyra (2012), for example](https://www.amazon.co.uk/Running-Lean-Iterate-Works-OReilly/dp/1449305172) %} tend to focus only on the practice of producing a product. To engage with social issues, we need to understand the history of what has happened before, what’s worked (or not), and who the key stakeholders are.
 
-
 ## Vision
 
 GFSC aims to take stock of where we are as people invested in progressive social change, and reject the narratives of the mainstream technology press and culture.  

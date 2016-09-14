@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Kim
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.

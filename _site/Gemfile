@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'jekyll-paginate'
-gem 'jekyll-compose', group: [:jekyll_plugins]
+group :jeykll_plugins do
+  gem 'github-pages'
+  gem 'jekyll-paginate'
+  gem 'jekyll-compose'
+end

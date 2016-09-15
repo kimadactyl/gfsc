@@ -30,9 +30,10 @@ Except, of course, it doesn’t. As a “web developer”, in a team of one or t
  * Setting up email systems, migrating organisations to cloud storage, setting up mailing lists and CRMs, etc.
  * And of course, the design and build of the website - a complex, multifaceted job in itself.
 
-This clearly sets up a huge power imbalance, and requires readjustment on both sides.
+This clearly sets up a huge power imbalance, and requires readjustment on both sides. Digital strategy should be part of your overall strategy as an organisation, the two are inseperable. Your digital and communiations presence will influence the way your organisation thinks about itself, and vice-versa. Commissioning a website or other product will never be a one-off job, but a continuous part of your organisation's workflow{% sidenote mro-plan More about "MRO plans" on [A List Apart (Hillis, 2016)](http://alistapart.com/article/create-an-evolutionary-web-strategy-with-a-digital-mro-plan) %}.
 
-Our combined work should therefore start before technology has even been invoked. By focussing on our “real world” objectives, away from the immediate constraints of why
+Our combined work should therefore start before technology has even been invoked. By focussing on our “real world” objectives, away from the immediate constraints, we can focus on how anything produced together helps the problem. This means taking stock of the people, skills and technology already in use, and finding a path to the place you want to be.
+
 
 ## Timelines
 

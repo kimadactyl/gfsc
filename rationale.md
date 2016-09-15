@@ -14,12 +14,12 @@ In reality, real social change is hard. Taking an asset-based approach{% sidenot
 
 ## Vision
 
-GFSC aims to take stock of where we are as people invested in progressive social change, and reject the narratives of the mainstream technology press and culture.  
+GFSC aims to take stock of where we are as people invested in progressive social change and reject the narratives of the mainstream technology press and culture.  
 
-Most community organisations don’t have teams of designers or coders, or huge sums of venture capital funding - and yet this is what the vast majority of tech funding and writing is focussed on. Our experiences are not represented in the tech press - finding pragmatic solutions to low-budget problems is not as sexy as new frameworks or fancy technologies.
+Most community organisations don’t have teams of designers or coders or huge sums of venture capital funding - and yet this is what the vast majority of tech funding and writing is focussed on. Our experiences are not represented in the tech press - finding pragmatic solutions to low-budget problems is not as sexy as new frameworks or fancy technologies.
 
 Most organisations have individual freelancers, or amateurs splitting a web presence among all their other jobs -- voices rarely, if ever, heard at mainstream events, focussed as they are solely on “best in class” technical solutions, not solving real-life issues. And the tech sector has profoundly failed to provide solutions for, or educate en masse, internet citizens to have the digital tools that are essential for a functioning democracy.
 
-Perhaps this is most keenly shown in the term "user". An industry-standard term that reduces citizens to keyboard operators, prospects, customers. One that immediately states that the only social text we care about is that between human and machine - not seeing people as holstic beings inhabiting many spaces, with many needs. We need to find better ways of communicating what we do, and create a technological practice that's primarily about people and communities, not technologies. GFSC is just the first step in realising this vision.
+Perhaps this is most keenly shown in the term "user". An industry-standard term that reduces citizens to keyboard operators, prospects, customers. One that immediately states that the only social text we care about is that between human and machine - not seeing people as holistic beings inhabiting many spaces, with many needs. We need to find better ways of communicating what we do and create a technological practice that's primarily about people and communities, not technologies. GFSC is just the first step in realising this vision.
 
 _More to come. Please [get in touch](/contact) if you want to contribute to this vision._

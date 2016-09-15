@@ -4,17 +4,17 @@ title: Methodology
 description: My approach to technology, research, and communication projects
 ---
 
-As you've probably noticed by now, the layout and tone of this site is fairly academic. That's for a reason. I want to escape quick-fix branding solutions and the pressures of being on-message, and give the issues the attention they deserve. I think we need this level of critical discourse in order to seriously upset the current status quo. The rest of this piece is fairly academic and theory-driven, but don't be afraid to simply get in touch if anything I've written chimes true!
+As you've probably noticed by now, the layout and tone of this site are fairly academic. That's for a reason. I want to escape quick-fix branding solutions and the pressures of being on-message and give the issues the attention they deserve. I think we need this level of critical discourse in order to seriously upset the current status quo. The rest of this piece is fairly academic and theory-driven, but don't be afraid to simply get in touch if anything I've written chimes true!
 
 ## Academic background
 
-My PhD used Grounded Theory as a methodology to understand how people listen to the sounds of the built environment. Grounded Theory (GT) was "discovered"{% sidenote gt [Glaser &amp; Strauss (1967)](https://en.wikipedia.org/wiki/The_Discovery_of_Grounded_Theory) %} in the 1960s by two researchers outlining a possible approach to iterative problem solving. The orginal text, while inspirational, leaves a little to be desired on detail, explored later by many authors in greater detail.
+My PhD used Grounded Theory as a methodology to understand how people listen to the sounds of the built environment. Grounded Theory (GT) was "discovered"{% sidenote gt [Glaser &amp; Strauss (1967)](https://en.wikipedia.org/wiki/The_Discovery_of_Grounded_Theory) %} in the 1960s by two researchers outlining a possible approach to iterative problem solving. The original text, while inspirational, leaves a little to be desired on detail, explored later by many authors in greater detail.
 
-Nowadays I'd describe my outlook as more like critical theory, or structuralist -- but the core concept is the same, that when exploring new ideas or areas, we should do research by absorbing everything around us, using an inductive not deductive methodology.
+Nowadays I'd describe my outlook as more like critical theory, or structuralist -- but the core concept is the same, that when exploring new ideas or areas, we should do research by absorbing everything around us, using an inductive, not deductive methodology.
 
 Agile and Lean, two inescapable buzzwords in today's tech world, owe almost everything to this approach, even if they don't know it themselves. Reading _Running Lean_{% sidenote mayura [Mauyra (2012)](https://www.amazon.co.uk/Running-Lean-Iterate-Works-OReilly/dp/1449305172) %}, the whole thing reminded me of a stripped-back, business-focussed version of Strauss and Corbin's (1990) later version of Grounded Theory{% sidenote gt2 [Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory](https://www.amazon.co.uk/Basics-Qualitative-Research-Techniques-Procedures/dp/1412997461/ref=dp_ob_title_bk) %}.
 
-Ask qualitively, verify quantatively; interviews as the primary method of data gathering; using all the tools at your disposal to understand needs; and ideas of how to measure what people are telling you are all key to both concepts. Grounded Theory adds more in terms of theoretical depth, telling you how to build robust, thick theory using qualitative data. Lean methods focus more on how to turn this information into profit -- and this is by far the most dominant cultural paradigm emerging from the tech scene at the moment.
+Ask qualitatively, verify quantitatively; interviews as the primary method of data gathering; using all the tools at your disposal to understand needs; and ideas of how to measure what people are telling you are all key to both concepts. Grounded Theory adds more in terms of theoretical depth, telling you how to build robust, thick theory using qualitative data. Lean methods focus more on how to turn this information into profit -- and this is by far the most dominant cultural paradigm emerging from the tech scene at the moment.
 
 ## Digital strategy is just strategy
 
@@ -30,9 +30,9 @@ Except, of course, it doesn’t. As a “web developer”, in a team of one or t
  * Setting up email systems, migrating organisations to cloud storage, setting up mailing lists and CRMs, etc.
  * And of course, the design and build of the website - a complex, multifaceted job in itself.
 
-This clearly sets up a huge power imbalance, and requires readjustment on both sides. Digital strategy should be part of your overall strategy as an organisation, the two are inseperable. Your digital and communiations presence will influence the way your organisation thinks about itself, and vice-versa. Commissioning a website or other product will never be a one-off job, but a continuous part of your organisation's workflow{% sidenote mro-plan More about "MRO plans" on [A List Apart (Hillis, 2016)](http://alistapart.com/article/create-an-evolutionary-web-strategy-with-a-digital-mro-plan) %}.
+This clearly sets up a huge power imbalance, and requires readjustment on both sides. Digital strategy should be part of your overall strategy as an organisation, the two are inseparable. Your digital and communications presence will influence the way your organisation thinks about itself, and vice-versa. Commissioning a website or other product will never be a one-off job, but a continuous part of your organisation's workflow{% sidenote mro-plan More about "MRO plans" on [A List Apart (Hillis, 2016)](http://alistapart.com/article/create-an-evolutionary-web-strategy-with-a-digital-mro-plan) %}.
 
-Our combined work should therefore start before technology has even been invoked. By focussing on our “real world” objectives, away from the immediate constraints, we can focus on how anything produced together helps the problem. This means taking stock of the people, skills and technology already in use, and finding a path to the place you want to be.
+Our combined work should, therefore, start before technology has even been invoked. By focussing on our “real world” objectives, away from the immediate constraints, we can focus on how anything produced together helps the problem. This means taking stock of the people, skills and technology already in use, and finding a path to the place you want to be.
 
 
 ## Timelines

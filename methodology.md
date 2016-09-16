@@ -64,15 +64,6 @@ This clearly sets up a huge power imbalance, and requires readjustment on both s
 
 Our combined work should, therefore, start before technology has even been invoked. By focussing on our “real world” objectives, away from the immediate constraints, we can focus on how anything produced together helps the problem. This means taking stock of the people, skills and technology already in use, and finding a path to the place you want to be.
 
+_More to come&hellip;..._
 
-## Timelines
-
-Unrealistic timelines due to unrealistic expectations
-
-## Simplest possible solution/MVP
-
-Often the simple solutions are the best. Low budget necessitates anyway. Easy to dream up huge platforms but strip back and do the simplest possible thing first (MVP)
-
-##  Agile starts at home
-
-You’ve already thought about this/maybe have a site/idea already. We develop from that - don’t feel like things are getting thrown away
+_This page is a work in progress that reflects my current feels about the problems with current web work. If you want to contribute or join me, or have any thoughts, please [get in touch](/contact)._

@@ -4,7 +4,7 @@ title: Work with me
 description: Who I work with, and what I can offer
 ---
 
-I work with a large variety of people and organisations. Do any of these sound like you? These are all scenarios I've been involved in. If in doubt, [get in touch](/contact) and let's have a chat.
+I work with a large variety of people and organisations. Do any of these sound like you? These are all scenarios I've been involved in, I'm sure there's more. [Get in touch](/contact) and let's have a chat.
 
 ## Campaigners, charities, and NGOs
 
@@ -35,3 +35,5 @@ You want to drastically increase your reach, but don't know how or where to star
 You're just starting out a campaign either by yourself, or with a group of friends. I can help you convert your political ideas into business and campaign ideas that break the status quo rather than repeating old tactics.
 
 You're aware you have a lack of technical skills, and want some training and ideas about what's possible. I can help mentor and guide you through the modern technological and research landscape.
+
+Any of these sound like you, not sure, or just want to have a chat? [Get in touch](/contact) and let's talk.

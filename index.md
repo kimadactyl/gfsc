@@ -4,9 +4,9 @@ title: Geeks for Social Change
 description: Working towards a fairer society using technology, communication, and education.
 ---
 
-Geeks for Social Change is an initiative led by Dr Kim Foale{% sidenote about-me More about me on my [personal site](http://alliscalm.net) %}, focussing on achieving measurable social change through activist, academic, and technological knowledge. I take a holistic approach to research, technology, and activism, aiming to use the best of all of them to create a fairer world. I have over a decade’s experience as both a web practitioner and community activist, and hold a social science PhD{% sidenote thesis <a href="http://usir.salford.ac.uk/32043/1/thesis-11-07-14-with-corrections-even-margins.pdf">Link to my doctoral thesis</a> %}. I’ve been involved in dozens of groups focussing on human rights and environmental issues, and created dozens of websites{% sidenote portfolio Partial portfolio [on my website](http://alliscalm.net/tag/portfolio/) %} for community organisations, universities, and businesses (including my own{% sidenote taichi-school [Tai Chi School](http://taichi.school) %}).
+Geeks for Social Change is an initiative led by Dr. Kim Foale{% sidenote about-me [Personal blog](http://alliscalm.net) %}, focussing on achieving measurable social change through activist, academic, and technological knowledge. I take a holistic approach to research, technology, and activism, aiming to use the best of all of them to create a fairer world. I have over a decade’s experience as both a web practitioner and community activist, and hold a social science PhD{% sidenote thesis <a href="http://usir.salford.ac.uk/32043/1/thesis-11-07-14-with-corrections-even-margins.pdf">Link to my doctoral thesis</a> %}. I’ve been involved in dozens of groups focussing on human rights and environmental issues, and created dozens of websites{% sidenote portfolio Partial portfolio [on my website](http://alliscalm.net/tag/portfolio/) %} for community organisations, universities, and businesses (including my own{% sidenote taichi-school [Tai Chi School](http://taichi.school) %}).
 
-[Read more about me&hellip;](/about)
+[Read more about me](/about) and [who I work with&hellip;](/work-with-me)
 
 ## About Geeks for Social Change
 

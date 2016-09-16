@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Kim
+title: About Dr. Kim Foale
 description: My skills and experience
 ---
 
@@ -18,13 +18,18 @@ I deliver a range of development services from full-stack web development, to vi
 
 ### Platforms
 
- * [Drupal](https://www.drupal.com/), a highly mature open-source CMS. I use this where a lot of functionality is needed on a limited budget. {% sidenote katescuttings [Example Drupal site](http://katescuttings.net/) %}
- * [Ruby on Rails](http://rubyonrails.org/), a platform for building webapps. I use this for projects with lots of custom functionality, where a high degree of customisation is required {% sidenote taichi [Example Rails site](http://taichi.school/) %}.
- * [Sinatra](http://www.sinatrarb.com/), a simple framework for making webapps. I use this for smaller projects that focus on doing one thing really well {% sidenote noiseater [Example Sinatra site](http://noiseeater.net/) %}.
- * Static site generators such as [Jekyll](http://jekyllrb.com/) {% sidenote self This site runs on Jekyll %}, Middleman and Metalsmith. I use these for creating "brochure sites" or simple blogs. I'm a huge fan of static site generators.
- * [Ghost](https://ghost.org/), an excellent blogging site {% sidenote allicalm [I use this for my personal blog](http://alliscalm.net/) %}.
 
- I do not use Wordpress: I think there is almost always a more appropriate solution, and believe it is one of the industry's most mis-sold solutions{% sidenote wordpress Proper article on this coming soon. %}. In short, it almost always ends up being insecure, bloated, slow, and poorly engineered. I'm happy to debate with you about why though and show you how other solutions will solve your problem better!
+[**Drupal**](https://www.drupal.com/), a highly mature open-source CMS. I use this where a lot of functionality is needed on a limited budget{% sidenote katescuttings [Example Drupal site](http://katescuttings.net/) %}.
+
+[**Ruby on Rails**](http://rubyonrails.org/), a platform for building webapps. I use this for projects with lots of custom functionality, where a high degree of customisation is required{% sidenote taichi [Example Rails site](http://taichi.school/) %}.
+
+[**Sinatra**](http://www.sinatrarb.com/), a simple framework for making webapps. I use this for smaller projects that focus on doing one thing really well{% sidenote noiseater [Example Sinatra site](http://noiseeater.net/) %}.
+
+**Static site generators** such as [Jekyll](http://jekyllrb.com/){% sidenote self This site runs on Jekyll %}, Middleman and Metalsmith. I use these for creating "brochure sites" or simple blogs. I'm a huge fan of static site generators.
+
+[**Ghost**](https://ghost.org/), an excellent blogging platform{% sidenote allicalm [I use this for my personal blog](http://alliscalm.net/) %}.
+
+ I do not use Wordpress: I think there is almost always a more appropriate solution, and believe it is one of the industry's most mis-sold solutions{% sidenote wordpress Proper article on this coming soon %}. In short, it almost always ends up being insecure, bloated, slow, and poorly engineered. I'm happy to debate with you about why though and show you how other solutions will solve your problem better!
 
 ### Languages and technologies
 

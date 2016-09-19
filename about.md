@@ -10,11 +10,13 @@ I have experience in a number of areas and bring skills from over a decade's exp
 
 I'm a primarily qualitative researcher, specialising in Grounded Theory-based coding methods. I prefer working with projects in their initial stages, developing concrete products from ephemeral ideas.
 
-I'm experienced in related technologies like NVivo (although I prefer to build my own solutions), SPSS and OpenRefine, and publish mostly in $$\LaTeX$$.
+I'm experienced in related technologies like NVivo (although I prefer to build my own solutions), SPSS and OpenRefine, and publish mostly in $$\LaTeX$$. I can run interviews and focus groups, and design, deliver and interpret surveys and other forms of research.
 
 ## Development
 
 I deliver a range of development services from full-stack web development, to video and media production and experimental production methods. I'm fluent in the following technologies and quick to learn new ones as needed for any given project.
+
+I also like to go off the beaten track, using art and games to experiment with ideas. For example, I developed an audio-visual installation{% sidenote elephants [Elephants in the Dark](http://alliscalm.net/elephants-in-the-dark/) %} and a board game{% sidenote artofnoises [Art of Noises](http://alliscalm.net/art-of-noises/) %} to explore and present ideas found in my PhD.
 
 ### Platforms
 

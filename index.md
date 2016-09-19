@@ -12,9 +12,9 @@ I take a holistic approach to research, technology, and activism, aiming to use 
 
 ## About Geeks for Social Change
 
-I established GFSC in response to an increasing frustration at the lack of communication between the spheres I work in. These are an activist sector extremely slow to utilize new technologies, an academic sector focussed on research impact and publications rather than engaging in social change, and a tech sector mostly invested in technological progress for the rich rather than innovating to solve social problems.
+I established GFSC in response to an increasing frustration at the lack of communication between the spheres I work in. These are an activist sector extremely slow to utilise new technologies; an academic sector focussed on research impact and publications rather than engaging in social change; and a tech sector mostly invested in technological progress for the rich, rather than innovating to solve social problems.
 
-It's an attempt to open up the development process, placing ethics first and being transparent about what I do and how I do it.
+It's also an attempt to open up the development process: placing ethics first, and being transparent about what I do and how I do it. Commercial marketing demands make it impossible to be critical about both our successes and failures: a shame, especially given we tend to learn the most from the latter. By taking this approach I hope that we can create a public dialogue around technology as a whole, and work together to overcome the barriers towards social progress in the world today.
 
 [Read more about the project background&hellip;](/rationale)
 
@@ -26,8 +26,6 @@ I want to engage with social issues by working with people and organisations of 
 
 ## Work with me
 
-I work exclusively with people who want to create measurable social change.
+I work exclusively with people who want to create measurable social change. I can build websites and apps, train you, and develop strategies tailed to the needs of your specific organisation and social change focus. I prefer to do this holistically, working with your organisation to understand where it is and where it needs to be, and help you use your time and resources most effectively. So yes, I can make you a website; but by working together we can build something better, for me, you, and the people we're doing it for.
 
-Summary here!
-
-[Get in touch now](/contact)
+[Read more about the problems I can help with](/work-with-me) or [get in touch.](/contact)

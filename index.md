@@ -26,7 +26,7 @@ I want to engage with social issues by working with people and organisations of 
 
 ## Work with me
 
-I work exclusively with clients who want to create measurable social change.
+I work exclusively with people who want to create measurable social change.
 
 Summary here!
 

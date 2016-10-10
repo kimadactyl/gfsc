@@ -11,3 +11,5 @@ kramdown:
 gems:
   - jekyll-paginate
   - jekyll-compose
+paginate_path: "/blog/page:num/"
+paginate: 5

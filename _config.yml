@@ -4,7 +4,6 @@ description: >
 paginate:	2 # The number of posts to show per page on your homepage
 name: "Dr Kim Foale"
 markdown: kramdown
-permalink: none
 destination: docs
 kramdown:
   parse_block_html: true
